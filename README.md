@@ -1,5 +1,11 @@
 # Sleep Habits & Late-Night Screen Time Dashboard
+## Live App
 
+Try the dashboard here: [Sleep Habits & Late-Night Screen Time Dashboard](https://bedtime-data-app-rzqkralqehjquagsinhk4w.streamlit.app/)
+
+## GitHub Repository
+
+Source code and dataset: [bedtime-data-app](https://github.com/lynnetta821/bedtime-data-app)
 ## Purpose
 This Streamlit app helps a health-program or wellness-program manager explore patterns in bedtime phone use, sleep duration, reported sleep debt, and next-day fatigue. It is an exploratory dashboard for prioritizing questions for further investigation, not a diagnostic or causal tool.
 
